@@ -4,19 +4,13 @@
   
     
     <entry>
-      <title>测试</title>
-      <link href="/blog/%E6%B5%8B%E8%AF%95%E7%95%8C%E9%9D%A2/"/>
-      <url>/blog/%E6%B5%8B%E8%AF%95%E7%95%8C%E9%9D%A2/</url>
+      <title>markdown测试</title>
+      <link href="/blog/markdown%E6%B5%8B%E8%AF%95/"/>
+      <url>/blog/markdown%E6%B5%8B%E8%AF%95/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><p><em>斜体文本</em><br><em>斜体文本</em><br><strong>粗体文本</strong><br><strong>粗体文本</strong><br><strong><em>粗斜体文本</em></strong><br><strong><em>粗斜体文本</em></strong><br><del>带删除线文本</del><br><u>带下划线文本</u></p><h2 id=""><a href="#" class="headerlink" title="*"></a><em>*</em></h2><h2 id="-1"><a href="#-1" class="headerlink" title="**"></a><strong>**</strong></h2><hr><hr><blockquote><p>引用区块</p></blockquote><p><a href="https://cn.bing.com/">必应</a></p><p><a href="https://cn.bing.com/">https://cn.bing.com/</a></p><p><img src="1.png" alt=""></p><div class="table-container"><table><thead><tr><th style="text-align:left">左对齐</th><th style="text-align:right">右对齐</th><th style="text-align:center">居中对齐</th><th>默认对齐</th></tr></thead><tbody><tr><td style="text-align:left">单元格</td><td style="text-align:right">单元格</td><td style="text-align:center">单元格</td><td>单元格</td></tr><tr><td style="text-align:left">单元格</td><td style="text-align:right">单元格</td><td style="text-align:center">单元格</td><td>单元格</td></tr></tbody></table></div>]]></content>
       
       
-      
-        <tags>
-            
-            <tag> 测试 </tag>
-            
-        </tags>
       
     </entry>
     
