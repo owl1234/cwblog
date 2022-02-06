@@ -17,19 +17,6 @@
     
     
     <entry>
-      <title>基础刷机教程</title>
-      <link href="/blog/%E5%9F%BA%E7%A1%80%E5%88%B7%E6%9C%BA%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%80%EF%BC%89/"/>
-      <url>/blog/%E5%9F%BA%E7%A1%80%E5%88%B7%E6%9C%BA%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%80%EF%BC%89/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="1.jpg" alt="图文无关"></p><h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>今天，我很荣幸为大家带来我的新手玩机教程第一篇——解BL锁</p><p>除非特别说明，本文全部图片均为红米10X4G和荣耀magicbook提供</p><h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>需要材料：你，需要解锁的手机，一台运行Win7及以上的电脑，一根USB数据线<br>第一步，打开电脑版小米社区，链接为<a href="https://www.xiaomi.cn/（如图）">https://www.xiaomi.cn/（如图）</a></p><p>单击“手机解锁”，点击“立刻解锁”，下载解锁工具，下载之后，打开压缩包，找到MiUsbDriver.exe，打开，然后安装一下驱动，登录小米账号，就可以解锁了（不是所有的号都是可以立刻解锁的，需要满足一定的条件，再次提醒，借号有风险）</p><p>第二步，打开你的手机桌面上的设置图标-我的设备-全部参数-连续点5次MIUI版本，会提示已进入开发者模式，然后，依次点击更多设置-开发者选项进入到开发者选项设置。在开发者选项界面下拉找到设备解锁状态进入到绑定账号界面，点击绑定账号和设备，绑定成功会提示绑定成功。注意：使用 WIFI 会提示关闭 WIFI 后使用移动数据进行绑定，如果关闭 WIFI 提示绑定不成功，退出小米账号重新登录一下小米账号再次尝试绑定即可</p><p>第三步，打开下载的解锁工具，找到并打开miflash-unlock.exe，同时按住手机电源键+音量下键 5 秒左右进入 FASTBOOT 模式（也叫兔子模式，但是在11月以后的MIUI开发版中，兔子模式的兔子变成了FASTBOOT字样），用数据线将手机连接至电脑</p><p>第四步，点击“解锁”，然后等一会，（注意，会清除全部数据，请做好备份）提示解锁成功就完成了，从这时起，一切手机出的事故后果自负（包括但不限于硬件，软件故障，烧主板等大量发生的问题除外）</p><p>后记不准备放到这了，太丢人了</p><p>本文与2021年12月完成</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>markdown测试</title>
       <link href="/blog/markdown%E6%B5%8B%E8%AF%95/"/>
       <url>/blog/markdown%E6%B5%8B%E8%AF%95/</url>
