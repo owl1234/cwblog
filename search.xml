@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>博客简洁模式</title>
+      <link href="/blog/%E5%8D%9A%E5%AE%A2%E7%AE%80%E6%B4%81%E6%A8%A1%E5%BC%8F/"/>
+      <url>/blog/%E5%8D%9A%E5%AE%A2%E7%AE%80%E6%B4%81%E6%A8%A1%E5%BC%8F/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>众所周知，hexo官方的主题不是很好看，所以在github上，有一些其他的hexo主题，就包括我使用的butterfly主题。（废话）</p><p>有人说我的博客界面太花哨，所以我用了一个大佬制作的简洁模式，现在发一篇文章介绍如何开启简洁模式。</p><p>首先，打开我的<a href="https://owl1234.github.io/blog/%E5%9F%BA%E7%A1%80%E5%88%B7%E6%9C%BA%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%80%EF%BC%89/">任意一篇文章</a></p><p><img src="1.png" alt="如图"></p><p>打开了告诉我（划掉）原谅我已经忘了Markdown里面怎么打出来划掉的文字</p><p><img src="2.png" alt=""></p><p>首先点右下角的齿轮图标，再点像书一样的图标，然后就会出现下图的效果</p><p><img src="3.png" alt=""></p><p>今天的教程到这里就结束了，如果我不鸽的话，明天再见</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>容克</title>
       <link href="/blog/%E5%AE%B9%E5%85%8B/"/>
       <url>/blog/%E5%AE%B9%E5%85%8B/</url>
